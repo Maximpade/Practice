@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "speed type",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
